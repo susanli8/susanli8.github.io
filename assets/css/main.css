@@ -2229,11 +2229,11 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
-		background-size: 256px 256px, cover;
+		background-image: url("/Users/Daniel/Desktop/Susan's Stuff/website/susan/assets/custom images/IMG_E1554.jpg");
+		background-size: cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
-		background-repeat: repeat, no-repeat;
+		background-position: bottom left, bottom center;
+		background-repeat: no-repeat;
 	}
 
 /* One */
